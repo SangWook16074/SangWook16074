@@ -1,4 +1,7 @@
-### 
+### About me
+-------------------------------------------------
+안녕하세요 !
+도전을 좋아하는 플러터 개발자 한상욱입니다 😀
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SangWook16074)](https://github.com/ryo-ma/github-profile-trophy)
 
