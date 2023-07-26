@@ -5,6 +5,10 @@
 ## 💻 Tech Stack
 
 <img src="https://img.shields.io/badge/Python-색상?style=flat-square&logo=python&logoColor=#3776AB" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="https://img.shields.io/badge/Dart-색상?style=flat-square&logo=dart&logoColor=#0175C2" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="https://img.shields.io/badge/Firebase-색상?style=flat-square&logo=firebase&logoColor=#FFCA28" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="https://img.shields.io/badge/Git-색상?style=flat-square&logo=git&logoColor=#F05032" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+
 
 ## 🏆 Trophy
 -------------------------------------------------
