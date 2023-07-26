@@ -2,16 +2,27 @@
 -------------------------------------------------
 새로운 것에 도전하는 것을 좋아하는 플러터 개발자 한상욱입니다 😀
 
-## 💻 Tech Stack
+## ⚫️ Language
 
 <div>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</div>
+
+## 💻 Tech Stack
+
+<div>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </div>
 
+## SNS
+<div>
+  <img src="https://img.shields.io/badge/blog-20C997?style=flat-square&logo=velog&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+  <img src="https://img.shields.io/badge/blog-E4405F?style=flat-square&logo=instagram&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+  <img src="https://img.shields.io/badge/blog-FFCD00?style=flat-square&logo=kakaotalk&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</div>
 
 ## 🏆 Trophy
 -------------------------------------------------
