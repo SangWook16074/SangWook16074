@@ -5,9 +5,9 @@
 ## ✅ SNS
 -------------------------------------------------
 <div>
-  <img src="https://img.shields.io/badge/blog-20C997?style=flat-square&logo=velog&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-  <img src="https://img.shields.io/badge/blog-E4405F?style=flat-square&logo=instagram&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-  <img src="https://img.shields.io/badge/blog-FFCD00?style=flat-square&logo=kakaotalk&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+  <img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=velog&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+  <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=kakaotalk&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </div>
 
 ## ⚫️ Language
