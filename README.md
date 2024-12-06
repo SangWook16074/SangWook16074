@@ -22,7 +22,7 @@ String department = "정보통신공학과";
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </div>
 
-## 💻 Tech Stack
+## 💻 Tech Skill
 <div>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=git&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
