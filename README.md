@@ -31,17 +31,12 @@ String department = "정보통신공학과";
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </div>
 
+[![SangWook16074's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SangWook16074&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/SangWook16074)
+
 ## BOJ
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=qazws78941)](https://solved.ac/qazws78941)
-
-## My Git Hub Information
-[![trophy](https://github-profile-trophy.vercel.app/?username=SangWook16074)](https://github.com/ryo-ma/github-profile-trophy)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SangWook16074&show_icons=true&theme=radical)
-
-[![SangWook16074's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SangWook16074&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/SangWook16074)
 
 <!--
 **SangWook16074/SangWook16074** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
