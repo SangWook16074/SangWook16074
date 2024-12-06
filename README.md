@@ -31,6 +31,10 @@ String department = "정보통신공학과";
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </div>
 
+## BOJ
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={qazws78941})](https://solved.ac/{qazws78941})
 
 ## My Git Hub Information
 [![trophy](https://github-profile-trophy.vercel.app/?username=SangWook16074)](https://github.com/ryo-ma/github-profile-trophy)
