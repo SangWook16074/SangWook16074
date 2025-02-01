@@ -2,7 +2,7 @@
 
 ```dart
 String name = "한상욱";
-int age = 25;
+int age = 27;
 String school = "인덕대학교";
 String department = "정보통신공학과";
 ```
