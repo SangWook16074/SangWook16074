@@ -56,8 +56,11 @@ A Flutter bottom-sheet package with a built-in drag handle and flexible snapping
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=qazws78941)](https://solved.ac/qazws78941)
-  
 
+## 🌱 Community & Mentoring
+
+I founded A&I, a mobile app development club, and have taught 20+ students over the past 3 years.
+  
 ## ✏️ Contacts
 <div>
   <a href="https://github.com/SangWook16074">
