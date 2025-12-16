@@ -42,15 +42,14 @@ I enjoy clean architecture, performance optimization, and sharing what I learn t
 
 ## 🚀 Open Source Projects
 
-📦 **grabber_sheet**
+📦 [**grabber_sheet**](https://pub.dev/packages/grabber_sheet)
 
 A Flutter bottom-sheet package with a built-in drag handle and flexible snapping.
 - 🔥 418+ downloads in 3 weeks
-[pub.dev](https://pub.dev/packages/grabber_sheet)
 
 ## 🧩 Competitive Programming & Rewards
 
-🏆 3rd place at Vibe Coding Hackathon (Flutter Korea 2025) — built with Gemini CLI & Cursor
+🏆 3rd place at Vibe Coding Hackathon (Flutter Korea 2025) — [run-fit](https://github.com/SangWook16074/runfit_flutter_vibeton) built with Gemini CLI & Cursor
 
 🧠 Active on Baekjoon Online Judge (algorithm problem solving)
 
