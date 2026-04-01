@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sangwook 
 
-A mobile app developer based in Seoul, South Korea 🇰🇷.
+A Software developer based in Seoul, South Korea 🇰🇷.
 I'm committed to becoming a sustainably growing developer who builds meaningful products and continues improving every day.
 
 I enjoy clean architecture, performance optimization, and sharing what I learn through writing and open-source.
