@@ -1,9 +1,9 @@
-# 👋 Hi, I'm Sangwook 
+# 👋 Hi, I'm Sangwook
 
-A Software developer based in Seoul, South Korea 🇰🇷.
+A 2nd-year software developer at **Nudge Healthcare**, based in Seoul, South Korea 🇰🇷.
 I'm committed to becoming a sustainably growing developer who builds meaningful products and continues improving every day.
 
-I enjoy clean architecture, performance optimization, and sharing what I learn through writing and open-source.
+I enjoy clean architecture, performance optimization, and sharing what I learn through writing, talks, and open-source.
 
 ## 🛠️ Tech Stack
 
@@ -40,26 +40,45 @@ I enjoy clean architecture, performance optimization, and sharing what I learn t
   <img src="https://img.shields.io/badge/REST%20API-005571?style=flat-square"/>
 </div>
 
+## 💼 Experience
+
+**Nudge Healthcare** — Software Developer (2026.08 – Present)
+- Developing and maintaining **모두의 챌린지 (Everyone's Challenge)**, an in-app challenge service inside **Cashwalk**, used by **1M+ MAU**
+  - Built engagement features such as **daily attendance check** and **weekly missions**
+  - Contributed to the state-management migration from **GetX → Riverpod**
+
+**Snapplay** — Software Developer (2025.10 – 2026.07)
+- Contributed across the entire mobile stack at an early-stage startup, mostly on greenfield projects
+- Built AI-powered automation for everyday engineering work
+  - QA automation, test automation, and deployment automation
+  - Harness engineering for AI coding agents
+
+## 🎤 Talks
+
+🎙️ **Flutter Korea 2026** — [AI와 함께 스타트업에서 생존하기 (Surviving at a Startup with AI)](https://ticketa.co/event/c9xsstcs)
+
 ## 🚀 Open Source Projects
 
 📦 [**grabber_sheet**](https://pub.dev/packages/grabber_sheet)
 
 A Flutter bottom-sheet package with a built-in drag handle and flexible snapping.
-- 🔥 418+ downloads in 3 weeks
 
-## 🧩 Competitive Programming & Rewards
+[![pub version](https://img.shields.io/pub/v/grabber_sheet?style=flat-square)](https://pub.dev/packages/grabber_sheet)
+[![pub likes](https://img.shields.io/pub/likes/grabber_sheet?style=flat-square)](https://pub.dev/packages/grabber_sheet/score)
+[![pub points](https://img.shields.io/pub/points/grabber_sheet?style=flat-square)](https://pub.dev/packages/grabber_sheet/score)
 
-🏆 3rd place at Vibe Coding Hackathon (Flutter Korea 2025) — [run-fit](https://github.com/SangWook16074/runfit_flutter_vibeton) built with Gemini CLI & Cursor
+## 🏆 Awards & Competitive Programming
+
+🥉 3rd place at Vibe Coding Hackathon (Flutter Korea 2025) — [run-fit](https://github.com/SangWook16074/runfit_flutter_vibeton) built with Gemini CLI & Cursor
 
 🧠 Active on Baekjoon Online Judge (algorithm problem solving)
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=qazws78941)](https://solved.ac/qazws78941)
+[![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=qazws78941)](https://solved.ac/qazws78941)
 
 ## 🌱 Community & Mentoring
 
-I founded A&I, a mobile app development club, and have taught 20+ students over the past 3 years.
-  
+I founded **A&I**, a mobile app development club, and have led it for 4 years with 40+ members.
+
 ## ✏️ Contacts
 <div>
   <a href="https://github.com/SangWook16074">
@@ -69,20 +88,3 @@ I founded A&I, a mobile app development club, and have taught 20+ students over 
     <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
   </a>
 </div>
-
-
-
-<!--
-**SangWook16074/SangWook16074** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
